@@ -1,0 +1,27 @@
+[
+  {
+    "comment": "Incredibly put, I couldn't have said it better myself!",
+    "blogId": 1,
+    "userId": 2
+  },
+  {
+    "comment": "Finally some good discourse!",
+    "blogId": 2,
+    "userId": 4
+  },
+  {
+    "comment": "I don't agree personally but you are entitled to your opinion",
+    "blogId": 2,
+    "userId": 3
+  },
+  {
+    "comment": "You have an interesting point of view, I agree with the majority of your argument but there are a few issues that I feel you are wrong on ",
+    "blogId": 2,
+    "userId": 1
+  },
+  {
+    "comment": "YOU COULDN'T BE MORE WRONG ON THIS!",
+    "blogId": 3,
+    "userId": 4
+  }
+]

@@ -6,6 +6,10 @@ body {
   font-family: "Source Sans Pro", sans-serif;
 }
 
+.nav_img {
+  object-fit: inherit;
+}
+
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;

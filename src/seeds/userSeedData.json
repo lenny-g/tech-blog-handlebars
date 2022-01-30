@@ -1,0 +1,30 @@
+[
+  {
+    "username": "CmptrLvr1",
+    "email": "bob@hello.com",
+    "password": "hello1234"
+  },
+
+  {
+    "username": "StarTechy007",
+    "email": "amanda@hello.com",
+    "password": "hyperNan123"
+  },
+
+  {
+    "username": "Technologenius99",
+    "email": "linda@hello.com",
+    "password": "penguin22"
+  },
+
+  {
+    "username": "HangryCoder",
+    "email": "jim@hello.com",
+    "password": "horseDivorce100"
+  },
+  {
+    "username": "OldSkoolGhoul",
+    "email": "henry@hello.com",
+    "password": "jamandcustard4eva"
+  }
+]
