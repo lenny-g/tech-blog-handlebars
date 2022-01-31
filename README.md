@@ -18,4 +18,4 @@ The object of the project was to build a CMS-style blog site similar to a Wordpr
 
 #### This section contains a video link showcasing the usage of this application:
 
-Click [here](https://drive.google.com/file/d/1mTmzIyMdupw4zJ-U2ZBX7wWFiK6acWk8/view?usp=sharing) to see for the link to the tech blog
+Click [here](https://tech-insider-blog.herokuapp.com/) to see for the link to the tech blog
