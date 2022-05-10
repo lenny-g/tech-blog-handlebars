@@ -1,0 +1,17 @@
+[
+  {
+    "title": "How Sequelize changed my life!",
+    "content": "Lorem ipsum dojdjdodp amet, consectetur adipiscing elit. Donec at nisl pretium, tempus mauris eu, faucibus urna. Fusce scelerisque, eros a semper dictum, eros sapien luctus sapien, quis bibendum mi tellus non magna. Maecenas turpis sem, molestie id sapien vitae, laoreet scelerisque ligula. Sed dapibus molestie eros, sed fermentum lacus vestibulum eu. Nam ultrices luctus leo, et ullamcorper velit convallis non. Aliqua",
+    "userId": 1
+  },
+  {
+    "title": "Node.js, backend extraordinaire",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. dddDonec at nisl pretium, tempus mauris eu, faucibus urna. Fusce scelerisque, eros a semper dictum, eros sapien luctus sapien, quis bibendum mi tellus non magna. Maecenas turpis sem, molestie id sapien vitae, laoreet scelerisque ligula. Sed dapibus molestie eros, sed fermentum lacus vestibulum eu. Nam ultrices luctus leo, et ullamcorper velit convallis non. Aliqua",
+    "userId": 2
+  },
+  {
+    "title": "Let's talk about Inquirer!",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisfffffcing elit. Donec at nisl pretium, tempus mauris eu, faucibus urna. Fusce scelerisque, eros a semper dictum, eros sapien luctus sapien, quis bibendum mi tellus non magna. Maecenas turpis sem, molestie id sapien vitae, laoreet scelerisque ligula. Sed dapibus molestie eros, sed fermentum lacus vestibulum eu. Nam ultrices luctus leo, et ullamcorper velit convallis non. Aliqua",
+    "userId": 3
+  }
+]
